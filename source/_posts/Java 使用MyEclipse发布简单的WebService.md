@@ -1,7 +1,7 @@
 ---
 title: Java 使用MyEclipse发布简单的WebService
 tags:
-  - Java
+  - java
   - WebService
 id: 118
 categories:
