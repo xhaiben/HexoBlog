@@ -29,7 +29,7 @@ categories:
 <div align=center>自习教室，轻松获得。![](/images/upcaid/zxs.png)</div>
 
 <br>
-# <div align=center><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk"><font >点我或扫码下载</font></a><br><br><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk">![下载链接](/images/upcaid/1482896561_300.png)</a></div>
+# <div align=center><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk"><font >点我或扫码下载</font></a><br><br><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk">![下载链接](/images/upcaid/1482905797_300.png)</a></div>
 <br>
 <div align=center><a href="https://github.com/xhaiben/SZSD"><i class="fa fa-fw fa-github"></i>GitHub项目链接</a></div><div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
   <div>APP目前仅有Android版，希望能获得您的支持用以开发ios版。</div>
