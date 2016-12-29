@@ -6,7 +6,7 @@ comments: true
 <br>
 # <div align=center>APP简介</div>
 <br>
-　　UPCAid是UPC校园助手类APP，旨在为在校同学提供更加方便快捷的校园信息，使同学们的校园生活更加便捷。截止目前，用户数量已达2000+。
+　　UPCAid是UPC校园助手类APP，旨在为在校同学提供更加方便快捷的校园信息，使同学们的校园生活更加便捷。
 <br>
 # <div align=center>功能介绍</div>
 ### 课表
