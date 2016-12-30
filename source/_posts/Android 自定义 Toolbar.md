@@ -44,13 +44,13 @@ date: 2016-08-14 23:56:24
 ```
 可能会出现内嵌的情况
 
-![img](/images/2016/08/toolbarinside.png)
+![img](http://oiz8hjtml.bkt.clouddn.com/images/2016/08/toolbarinside.png)
 
 将最外层的 **RelativeLayout** 中的 **padding** 属性去掉
 
 在 **Toolbar** 的下层布局中添加 **layout_below** 属性，使其处于 **Toolbar** 下方
 
-![img](/images/2016/08/20160814195056.png)
+![img](http://oiz8hjtml.bkt.clouddn.com/images/2016/08/20160814195056.png)
 
 ### 为 **Toolbar** 添加自定义 **Menu**
 
@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
 
 运行结果
 
-![img](/images/2016/08/20160814234139.png)
+![img](http://oiz8hjtml.bkt.clouddn.com/images/2016/08/20160814234139.png)
 
 设置 **title** 不显示，添加一个 **TextView** 自定义 **Title** 样式
 
