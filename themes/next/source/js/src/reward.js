@@ -1,9 +1,1 @@
-function reward() {
-    var qr = document.getElementById('QR');
-    if (qr.style.display === 'none') {
-        qr.style.display='block';
-    } else {
-        qr.style.display='none'
-    }
-    
-}
+function reward(){var A=document.getElementById("QR");if(A.style.display==="none"){A.style.display="block"}else{A.style.display="none"}};
