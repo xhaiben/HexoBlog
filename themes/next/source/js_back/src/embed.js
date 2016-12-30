@@ -464,7 +464,6 @@
             }, avatarUrl: function (e) {
                 var avatarUrl = e.avatar_url || rt.data.default_avatar_url
                 avatarUrl=avatarUrl.replace(/http:/g,'https:');
-                console.log(avatarUrl.replace(/http:/g,'https:'));
                 return avatarUrl
             }, loginUrl: function (e, t) {
                 return t || (t = {}), c.sso && c.sso.login && (t.sso = 1, t.redirect_uri = c.sso.login), a() + "/login/" + e + "/" + x(t)
@@ -568,6 +567,7 @@
             return e.comments || (t += ' style="display:none;"'), t += '><a data-type="unread-comments" href="javascript:void(0);">你有' + e.comments + "条新回复</a></li><li", e.notifications || (t += ' style="display:none;"'), t += '><a data-type="unread-notifications" href="javascript:void(0);">你有' + e.notifications + "条系统消息</a></li></ul></div>"
         }, et.post = function (e) {
             var t = "", s = e.post, i = e.options, r = s.author;
+            s.message=s.message.replace(/http:/g,'https:');
             if (t += '<li class="ds-post" data-post-id="' + s.post_id + '"><div class="ds-post-self" data-post-id="' + s.post_id + '" data-thread-id="' + s.thread_id + '" data-root-id="' + s.root_id + '" data-source="' + s.source + '"><div class="ds-avatar"', r.user_id && (t += ' data-user-id="' + r.user_id + '"'), t += ">" + et.avatar(r), S.sourceName[s.source] && (t += et.serviceIcon(s.source)), t += '</div><div class="ds-comment-body"><div class="ds-comment-header">', r.url ? (t += '<a class="ds-user-name ds-highlight" data-qqt-account="' + (r.qqt_account || "") + '" href="' + u(r.url) + '" ', r.user_id && (t += " onclick=\"this.href='" + a() + "/user-url/?user_id=" + r.user_id + "';\""), t += ' rel="nofollow" target="_blank"', r.user_id && (t += ' data-user-id="' + r.user_id + '"'), t += ">" + u(r.name) + "</a>") : (t += '<span class="ds-user-name"', r.user_id && (t += ' data-user-id="' + r.user_id + '"'), t += ' data-qqt-account="' + (r.qqt_account || "") + '">' + u(r.name) + "</span>"), t += "</div>", 1 == i.max_depth && i.show_context && s.parents.length) {
                 t += '<ol id="ds-ctx">';
                 var n = lt.getJSON(s.parents);
