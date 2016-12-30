@@ -19,7 +19,7 @@ tags:
 ubuntu16.04下文件路径`/etc/mysql/mysql.conf.d`
 在`[mysqld]`字段中添加
 `skip-grant-tables`
-![](/images/2016/12/H%25TOR%5bPO14QQO4%7d%5d81S%7bYE.png)
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/H%25TOR%5bPO14QQO4%7d%5d81S%7bYE.png)
 保存修改
 重启mysql服务
 `service mysql restart`
