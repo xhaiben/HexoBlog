@@ -121,8 +121,4 @@ popupWindow.showAtLocation(popupWindow.getContentView(),Gravity.CENTER,0,0);
 
 ### 效果图
 
-<<<<<<< HEAD
 ![效果图](https://oizhq5zzs.qnssl.com/images/2016/10/未标题-2.gif)
-=======
-![效果图](http://oiz8hjtml.bkt.clouddn.com/images/2016/10/未标题-2.gif)
->>>>>>> parent of 53331c9... 多说https改造前

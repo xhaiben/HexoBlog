@@ -23,16 +23,8 @@ apt-get install mysql-server mysql-client
 
 设置**mysql root**用户的密码
 
-<<<<<<< HEAD
 ![setpasswd](https://oizhq5zzs.qnssl.com/images/2016/08/mysqlSetRootPasswd.png)
 
 使用`mysql -u root -p`输入密码后即可登录 `mysql`
 
 ![mysqlLogin](https://oizhq5zzs.qnssl.com/images/2016/08/mysql-login.png)
-=======
-![setpasswd](http://oiz8hjtml.bkt.clouddn.com/images/2016/08/mysqlSetRootPasswd.png)
-
-使用`mysql -u root -p`输入密码后即可登录 `mysql`
-
-![mysqlLogin](http://oiz8hjtml.bkt.clouddn.com/images/2016/08/mysql-login.png)
->>>>>>> parent of 53331c9... 多说https改造前
