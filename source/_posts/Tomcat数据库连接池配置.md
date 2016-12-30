@@ -19,11 +19,11 @@ tags:
 
 在Tomcat的context.xml中配置数据库的连接资源
 
-![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/QQ截图20161213094556.png)
+![](/images/2016/12/QQ截图20161213094556.png)
 
 在Web工程的web.xml中添加此资源
 
-![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/QQ截图20161213094748.png)
+![](/images/2016/12/QQ截图20161213094748.png)
 
 servlet中连接资源的使用
 ```java
