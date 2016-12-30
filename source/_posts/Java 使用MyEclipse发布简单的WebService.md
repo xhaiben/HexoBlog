@@ -21,11 +21,11 @@ date: 2016-04-21T17:09:46.000Z
 
 ### 新建**Web Project**
 
-![新建wewb Project](/images/2016/08/newWebProject.png)
+![新建wewb Project](https://oizhq5zzs.qnssl.com/images/2016/08/newWebProject.png)
 
 ### 在工程下新建一个包
 
-![新建包](/images/2016/08/webServicePackage.png)
+![新建包](https://oizhq5zzs.qnssl.com/images/2016/08/webServicePackage.png)
 
 ### 新建**WebService**的接口**IService**
 

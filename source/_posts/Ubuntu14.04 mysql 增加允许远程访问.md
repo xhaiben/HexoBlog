@@ -23,7 +23,7 @@ date: 2016-04-19 22:39:50
 ```sql
 SELECT user,host FROM mysql.user;
 ```
-![privileges](/images/2016/08/mysqlShowPrivilegesOfUser.png)
+![privileges](https://oizhq5zzs.qnssl.com/images/2016/08/mysqlShowPrivilegesOfUser.png)
 
 此时**root**没有远程链接权限，仅限本机登陆
 
@@ -39,4 +39,4 @@ GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'rootPassword';
 FLUSH PRIVILEGES;
 ```
 
-![privileges](/images/2016/08/mySql@Privileges.png)
+![privileges](https://oizhq5zzs.qnssl.com/images/2016/08/mySql@Privileges.png)
