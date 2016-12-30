@@ -17,24 +17,24 @@ categories:
 
 # <div align=center>功能介绍</div>
 + 课表
-<div align=center>自动获取课表，无需手动添加![](http://oiz8hjtml.bkt.clouddn.com/images/upcaid/kebiao.png)</div>
+<div align=center>自动获取课表，无需手动添加![](https://oizhq5zzs.qnssl.com/images/upcaid/kebiao.png)</div>
 <br>
 + 成绩
-<div align=center>成绩详细信息，离校也能查![](http://oiz8hjtml.bkt.clouddn.com/images/upcaid/cjcx.png)</div>
+<div align=center>成绩详细信息，离校也能查![](https://oizhq5zzs.qnssl.com/images/upcaid/cjcx.png)</div>
 <br>
 + 图书馆
-<div align=center>图书随时续借，不怕超期。![](http://oiz8hjtml.bkt.clouddn.com/images/upcaid/xjts.png)</div>
+<div align=center>图书随时续借，不怕超期。![](https://oizhq5zzs.qnssl.com/images/upcaid/xjts.png)</div>
 <br>
 + 自习室
-<div align=center>自习教室，轻松获得。![](http://oiz8hjtml.bkt.clouddn.com/images/upcaid/zxs.png)</div>
+<div align=center>自习教室，轻松获得。![](https://oizhq5zzs.qnssl.com/images/upcaid/zxs.png)</div>
 
 <br>
-# <div align=center><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk"><font >点我或扫码下载</font></a><br><br><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk">![下载链接](http://oiz8hjtml.bkt.clouddn.com/images/upcaid/1482905797_300.png)</a></div>
+# <div align=center><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk"><font >点我或扫码下载</font></a><br><br><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk">![下载链接](https://oizhq5zzs.qnssl.com/images/upcaid/1482905797_300.png)</a></div>
 <br>
 <div align=center><a href="https://github.com/xhaiben/SZSD"><i class="fa fa-fw fa-github"></i>GitHub项目链接</a></div><div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
   <div>坚持原创技术分享，您的支持将鼓励我继续创作！</div>
   <button id="rewardButton" disable="enable" onclick="reward()"><span>赏</span>
-  </button><div id="QR" style="display: block;"><div id="wechat" style="display: inline-block"><img id="wechat_qr" src="http://oiz8hjtml.bkt.clouddn.com/images/pay/wechatpay.png" alt="Cacher WeChat Pay"/><p>微信打赏</p>
-      </div><div id="alipay" style="display: inline-block"><img id="alipay_qr" src="http://oiz8hjtml.bkt.clouddn.com/images/pay/alipay.png" alt="Cacher Alipay"/><p>支付宝打赏</p>
+  </button><div id="QR" style="display: block;"><div id="wechat" style="display: inline-block"><img id="wechat_qr" src="https://oizhq5zzs.qnssl.com/images/pay/wechatpay.png" alt="Cacher WeChat Pay"/><p>微信打赏</p>
+      </div><div id="alipay" style="display: inline-block"><img id="alipay_qr" src="https://oizhq5zzs.qnssl.com/images/pay/alipay.png" alt="Cacher Alipay"/><p>支付宝打赏</p>
       </div></div>
 </div>
