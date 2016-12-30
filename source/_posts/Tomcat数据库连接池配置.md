@@ -19,11 +19,19 @@ tags:
 
 在Tomcat的context.xml中配置数据库的连接资源
 
+<<<<<<< HEAD
 ![](https://oizhq5zzs.qnssl.com/images/2016/12/QQ截图20161213094556.png)
 
 在Web工程的web.xml中添加此资源
 
 ![](https://oizhq5zzs.qnssl.com/images/2016/12/QQ截图20161213094748.png)
+=======
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/QQ截图20161213094556.png)
+
+在Web工程的web.xml中添加此资源
+
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/QQ截图20161213094748.png)
+>>>>>>> parent of 53331c9... 多说https改造前
 
 servlet中连接资源的使用
 ```java

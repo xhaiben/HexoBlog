@@ -19,15 +19,26 @@ tags:
 
 #### 下载数据库驱动
 
+<<<<<<< HEAD
 ![MySQL驱动下载](https://oizhq5zzs.qnssl.com/images/2016/12/6NXL9SA2XE5CM996_JD_O.png)
+=======
+![MySQL驱动下载](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/6NXL9SA2XE5CM996_JD_O.png)
+>>>>>>> parent of 53331c9... 多说https改造前
 
 #### 添加jar到工程下
 * IDEA
 
+<<<<<<< HEAD
 ![](https://oizhq5zzs.qnssl.com/images/2016/12/0FCY7O14OF@UIF1KK.png)
 * Eclipse
 
 ![](https://oizhq5zzs.qnssl.com/images/2016/12/6QKBB2XCCY1Z111NEI.png)
+=======
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/0FCY7O14OF@UIF1KK.png)
+* Eclipse
+
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/6QKBB2XCCY1Z111NEI.png)
+>>>>>>> parent of 53331c9... 多说https改造前
 
 #### 代码
 ```java
@@ -85,10 +96,18 @@ public static String PASSWORD = "password";
 
 * Student表
 
+<<<<<<< HEAD
 ![](https://oizhq5zzs.qnssl.com/images/2016/12/H1ISBGIWUII9Y_LQ3.png)
 
 * Award表
 
 ![](https://oizhq5zzs.qnssl.com/images/2016/12/KCCPTBX@CL3BIN4S.png)
+=======
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/H1ISBGIWUII9Y_LQ3.png)
+
+* Award表
+
+![](http://oiz8hjtml.bkt.clouddn.com/images/2016/12/KCCPTBX@CL3BIN4S.png)
+>>>>>>> parent of 53331c9... 多说https改造前
 > 备注：
 使用`PreparedStatement`代替`Statement`，以设置占位符的方式代替`String`拼接，可在一定程度上防止**SQL注入**。
