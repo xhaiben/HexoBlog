@@ -88,4 +88,4 @@ linux:
 
     ftp 192.168.0.1
 
-![ftp登录](https://oizhq5zzs.qnssl.com/images/2016/08/X7EB@W4X544MRO2_PTO.png)
+![ftp登录](/images/2016/08/X7EB@W4X544MRO2_PTO.png)

@@ -121,4 +121,4 @@ popupWindow.showAtLocation(popupWindow.getContentView(),Gravity.CENTER,0,0);
 
 ### 效果图
 
-![效果图](https://oizhq5zzs.qnssl.com/images/2016/10/未标题-2.gif)
+![效果图](/images/2016/10/未标题-2.gif)
