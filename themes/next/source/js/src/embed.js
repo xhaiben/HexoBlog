@@ -646,10 +646,7 @@
     }, Am.likeTooltip = function (A) {
       var C = '<div class="ds-like-tooltip ds-rounded"><p>很高兴你能喜欢，分享一下吧：</p><ul>';
       for (var B in A.services) {
-        C += '<li><a class="ds-share-to-' + B + " ds-service-link ds-" + B + '" href="' + A9() + "/share-proxy/?" + A4.param({
-            service: B,
-            thread_id: A.thread_id
-          }) + '">' + A.services[B] + "</a></li>"
+        C += '<li><a class="ds-share-to-' + B + " ds-service-link ds-" + B + '">' + A.services[B] + "</a></li>"
       }
       return C += '</ul><p class="ds-like-tooltip-footer"><a class="ds-like-tooltip-close">算了</a></p></div>'
     }, Am.loginButtons = function () {
@@ -1588,7 +1585,7 @@
           var H = this, K = H.el;
           if (K.children().hasClass("ds-share-inline")) {
             var B = ".ds-share-icons-more", M = K.find(B), U = "[data-toggle=ds-share-icons-more]";
-            K.delegate(U, "mouseover", function () {
+            /*K.delegate(U, "mouseover", function () {
               M.show()
             }), K.delegate(U, "mouseout", function () {
               M.hide()
@@ -1596,7 +1593,7 @@
               M.show()
             }), K.delegate(B, "mouseout", function () {
               M.hide()
-            })
+          })*/
           } else {
             var N = K.children().hasClass("ds-share-aside-left") ? "slide-to-right" : "slide-to-left", T = K.children();
             if (!A4.cssProperty("transition")) {
@@ -1635,7 +1632,7 @@
                   content: K.data("content"),
                   url: K.data("url")
                 });
-              Aa.open(b, "_blank")
+             
             }
             g.preventDefault(), g.stopPropagation()
           })
