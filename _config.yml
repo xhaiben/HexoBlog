@@ -99,7 +99,7 @@ deploy:
 
 
 # avatar
-avatar: /images/2016/12/头像300.png
+avatar: https://oizhq5zzs.qnssl.com/%E5%A4%B4%E5%83%8F300.png
 
 #百度SEO
 baidu_url_submit:
