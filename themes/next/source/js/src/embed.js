@@ -646,7 +646,7 @@
     }, Am.likeTooltip = function (A) {
       var C = '<div class="ds-like-tooltip ds-rounded"><p>很高兴你能喜欢，分享一下吧：</p><ul>';
       for (var B in A.services) {
-        C += '<li><a class="ds-share-to-' + B + " ds-service-link ds-" + B + '">' + A.services[B] + "</a></li>"
+        C += '<li><a class="ds-share-to-' + B + " ds-service-link ds-" + B + '" >' + A.services[B] + "</a></li>"
       }
       return C += '</ul><p class="ds-like-tooltip-footer"><a class="ds-like-tooltip-close">算了</a></p></div>'
     }, Am.loginButtons = function () {
@@ -1614,6 +1614,9 @@
           }
           K.delegate("a", "click", function (g) {
             var X = c(this).data("service");
+            if(typeof(X)=="undefined"){
+                return
+            }
             if (!K.data("url")) {
               return void alert("请设置data-url")
             }
@@ -1632,7 +1635,7 @@
                   content: K.data("content"),
                   url: K.data("url")
                 });
-             
+              Aa.open(b, "_blank")
             }
             g.preventDefault(), g.stopPropagation()
           })
