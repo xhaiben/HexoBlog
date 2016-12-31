@@ -4,7 +4,8 @@ date: 2016-12-31 13:53:49
 tags:
  - https
 categories:
- - net
+ - Blog
+permalink: duoshuo-https
 ---
 　　多说的评论框虽然提供了https链接，但是其中的一些头像和表情还是http的，本文介绍了一种改造方式，使多说评论框完美支持https。
 <!--more-->
