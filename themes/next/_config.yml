@@ -281,7 +281,7 @@ duoshuo_shortname: cacher
 #    button | slide
 # Warning: Baidu Share does not support https.
 #baidushare:
-#  type: button
+  #type: button
 
 # Share
 #jiathis: true
@@ -289,7 +289,7 @@ duoshuo_shortname: cacher
 #add_this_id:
 
 # Share
-duoshuo_share: true
+#duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
