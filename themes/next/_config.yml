@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "cacher, java,upcaid,UPCAid,xhaiben"
+keywords: "cacher,java,upcaid,UPCAid,xhaiben"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -208,6 +208,7 @@ scroll_to_more: true
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
+mydescription: Life Is An Attitude
 # Automatically Excerpt. Not recommand.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
