@@ -272,6 +272,8 @@ mathjax:
 duoshuo_shortname: cacher
 # Disqus
 #disqus_shortname:
+# Changyan
+#changyan: true
 
 # Hypercomments
 #hypercomments_id:
@@ -312,8 +314,8 @@ duoshuo_share: true
 duoshuo_info:
   ua_enable: true
   admin_enable: true
-  user_id: 6365807890388747000
-  admin_nickname: Cacher
+  user_id: 6370177937475388000
+  admin_nickname: 博主
 
 
 # Facebook SDK Support.
