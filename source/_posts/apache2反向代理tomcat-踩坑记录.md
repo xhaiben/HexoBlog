@@ -8,7 +8,9 @@ categories:
  - Linux
 permalink: apache2-reverse-proxy-tomcat
 ---
-　　有一台运行在内网的Tomcat服务器，想通过公网的Apache服务器，使用反向代理来达到公网访问的目的，记录一下踩的坑
+　　有一台运行在内网的Tomcat服务器，想通过公网的Apache服务器，使用反向代理来达到公网访问的目的，记录一下踩的坑。
+The proxy server received an invalid response from an upstream server.
+The proxy server could not handle the request GET /tomcat.css.
 　　环境：
 　　UbuntuServer 14.04
 　　Apache 2.4.7
