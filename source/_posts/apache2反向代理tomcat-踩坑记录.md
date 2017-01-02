@@ -96,22 +96,4 @@ ln -s ../mods-available/proxy_http.load proxy_http.load
 
 百度，Google N久无果，最后发现是代理服务器的地址配错了，端口号后要加 / 即 `http://10.161.192.82:8080/`
 
-一开始的错误配置:
-```xml
-<VirtualHost *:80>
-        ServerAdmin webmaster@localhost
-        #DocumentRoot /var/www/html
-        ServerName ****.cacher.cc
-
-        ErrorLog ${APACHE_LOG_DIR}/error.log
-        CustomLog ${APACHE_LOG_DIR}/access.log combined
-
-        <Proxy *>
-          Order Deny,Allow
-          Allow from all
-        </Proxy>
-        ProxyPass / http://10.161.192.82:8080
-        ProxyPassReverse / http://10.161.192.82:8080
-</VirtualHost>
-
-```
+![](https://oizhq5zzs.qnssl.com/2017/01/02/B8%2599QN%5BM_PL%7B6UIV%7BF19%290.png)

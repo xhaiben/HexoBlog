@@ -57,3 +57,5 @@ https://static.duoshuo.com/embed.js
 ### 改造完毕
 <br>
 ![](https://oizhq5zzs.qnssl.com/_R7S140%5D9$YIV%7B%60%7B2QTB%5D3W.png)
+
+<div align=center><a href="https://github.com/xhaiben/duoshuo-https"><i class="fa fa-fw fa-github"></i>GitHub链接</a></div>
