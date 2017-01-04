@@ -134,7 +134,7 @@
         </section>
       <!--/noindex-->
       {% endif %}
-
     </div>
+    
   </aside>
 {% endmacro %}
