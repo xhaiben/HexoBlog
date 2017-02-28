@@ -93,7 +93,7 @@ theme: next
 #  ignore_errors: false
 deploy:
 - type: git
-  repo: root@cacher.cc:/var/www/hexo.git
+  repository: root@cacher.cc:/var/www/hexo.git
   branch: master
 - type: baidu_url_submitter
 

@@ -100,7 +100,7 @@ categories:
 <div align=center><a href="https://github.com/xhaiben/SZSD"><i class="fa fa-fw fa-github"></i>GitHub项目链接</a></div><div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
   <div>坚持原创技术分享，您的支持将鼓励我继续创作！</div>
   <button id="rewardButton" disable="enable" onclick="reward()"><span>赏</span>
-  </button><div id="QR" style="display: none;"><div id="wechat" style="display: inline-block"><img id="wechat_qr" src="https://oizhq5zzs.qnssl.com/images/pay/wechatpay.png" alt="Cacher WeChat Pay"/><p>微信打赏</p>
+  </button><div id="QR" style="display: block;"><div id="wechat" style="display: inline-block"><img id="wechat_qr" src="https://oizhq5zzs.qnssl.com/images/pay/wechatpay.png" alt="Cacher WeChat Pay"/><p>微信打赏</p>
       </div><div id="alipay" style="display: inline-block"><img id="alipay_qr" src="https://oizhq5zzs.qnssl.com/images/pay/alipay.png" alt="Cacher Alipay"/><p>支付宝打赏</p>
       </div></div>
 </div>
