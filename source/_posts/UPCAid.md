@@ -10,32 +10,7 @@ categories:
 
 #description: 　　UPCAid是UPC校园助手类APP，旨在为在校同学提供更加方便快捷的校园信息，使同学们的校园生活更加便捷。截止目前，用户数量已达2000+。
 ---
-# <div align="center">打赏记录</div>
-<div align="center">由于微信看不到网名，故以时间代替。</div>
 
-| 网名     | 方式   |  金额（元）  |
-| :--------:   | :-----:  | :------:  |
-| 长衫赵子龙     | 支付宝 |   0.5     |
-| redbones      |   QQ红包   |   4.99   |
-| 嗨。        |   QQ红包    |  2  |
-| 2017-01-09 23:04:23  |   微信  |   1   |
-| 坤        |  支付宝 | 3|
-| 刘天--- | 支付宝 | 0.01 |
-| 增强 | 支付宝 | 2.99 |
-| 2017-01-15 17:20:49 | 微信 | 9.99 |
-|  椿欣 | 支付宝 |  5 |
-|  毅虎 | 支付宝 | 5 |
-| 昀良 | 支付宝 | 9.9 |
-| 2017-01-18 19:05:12 | 微信 | 5 |
-| 陈小琦 | 支付宝 | 2.00 |
-| 子涵 | 支付宝 | 20.00 |
-| 2017-02-08 20:32:15 | 微信 | 3 |
-| 云浩 | 支付宝 | 10.00 |
-| 王岩 | 支付宝 | 5.00 |
-| 衍年 | 支付宝 | 1.00 |
-
-# <div align=center>更新日志</div>
-<br>
 # 1.4.2
 
 + 去除一些不必要的权限
@@ -98,10 +73,4 @@ categories:
 <br>
 # <div align=center><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk"><font >点我或扫码下载</font></a><br><br><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk">![下载链接](https://oizhq5zzs.qnssl.com/images/upcaid/1482905797_300.png)</a></div>
 <br>
-<div align=center><a href="https://github.com/xhaiben/SZSD"><i class="fa fa-fw fa-github"></i>GitHub项目链接</a></div><div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-  <div>坚持原创技术分享，您的支持将鼓励我继续创作！</div>
-  <button id="rewardButton" disable="enable" onclick="reward()"><span>赏</span>
-  </button><div id="QR" style="display: block;"><div id="wechat" style="display: inline-block"><img id="wechat_qr" src="https://oizhq5zzs.qnssl.com/images/pay/wechatpay.png" alt="Cacher WeChat Pay"/><p>微信打赏</p>
-      </div><div id="alipay" style="display: inline-block"><img id="alipay_qr" src="https://oizhq5zzs.qnssl.com/images/pay/alipay.png" alt="Cacher Alipay"/><p>支付宝打赏</p>
-      </div></div>
-</div>
+<div align=center><a href="https://github.com/xhaiben/SZSD"><i class="fa fa-fw fa-github"></i>GitHub项目链接</a></div>
