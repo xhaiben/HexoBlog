@@ -94,8 +94,8 @@ theme: next
 #  ignore_errors: false
 deploy:
 - type: git
-  repository: root@cacher.cc:/var/www/hexo.git
-  branch: master
+  repository: https://github.com/xhaiben/blog.git
+  branch: gh-pages
 - type: baidu_url_submitter
 
 
