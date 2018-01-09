@@ -71,6 +71,6 @@ categories:
 <div align=center>自习教室，轻松获得。![](https://oizhq5zzs.qnssl.com/images/upcaid/zxs.png)</div>
 
 <br>
-# <div align=center><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk"><font >点我或扫码下载</font></a><br><br><a href="http://120.27.117.34:4549/SZSDServlet2/UPCAid.apk">![下载链接](https://oizhq5zzs.qnssl.com/images/upcaid/1482905797_300.png)</a></div>
+# <div align=center><a href="https://oizhq5zzs.qnssl.com/UPCAid.apk"><font >点我下载</font></a>
 <br>
 <div align=center><a href="https://github.com/xhaiben/SZSD"><i class="fa fa-fw fa-github"></i>GitHub项目链接</a></div>
